@@ -1,0 +1,4 @@
+
+Use a ferramenta de ping. Envie uma solicitação GET no seu navegador ou na linha de comando para esse endereço, especificando o URL completo do sitemap. O arquivo de sitemap precisa estar acessível:
+
+https://www.google.com/ping?sitemap=http://junta10.com/sitemap.xml
