@@ -32,24 +32,34 @@
             if ( name && email && message ) {
              	$.ajax({
 	                 type: "POST",
-	                 url:'contact.php',
+                     crossDomain: true,
+	                 url:'http://www.elitefinanceira.com/producao/cfdi/php/classes/gateway/appInserirContato.php',
 	                 data:{
-                         'name': name,
+                         'nome': name,
                          'email': email,
-                         'message': message,
+                         'mensagem': message,
 	                 },
 	                 success:function(data){
+                         const retorno = JSON.parse(data);
+
                          $('#contact_form_submit').children('.email-success').remove();
-                         $('#contact_form_submit').prepend('<span class="alert alert-success email-success">'+data+'</span>');
-                         $('#name').val('');
+                         // linha original
+                         // $('#contact_form_submit').prepend('<span class="alert alert-success email-success">' + data + '</span>');
+                         if(retorno.msgcode == "MSG-0202") {
+                             $('#contact_form_submit').prepend('<span class="alert alert-success email-success">' + retorno.msgcodeString + '</span>');
+                         } else {
+                            $('#contact_form_submit').prepend('<span class="alert alert-danger email-success">' + retorno.msgcodeString + '</span>');
+
+                         }
+                         $('#uname').val('');
                          $('#email').val('');
                          $('#message').val('');
-                         $('.email-success').fadeOut(3000);
+                         $('.email-success').fadeOut(7000);
 	                 }
 	             });
              }else{
                 $('#contact_form_submit').children('.email-success').remove();
-                $('#contact_form_submit').prepend('<span class="alert alert-danger email-success">somenthing is wrong</span>');
+                $('#contact_form_submit').prepend('<span class="alert alert-danger email-success">Alguma coisa deu errado</span>');
                 $('.email-success').fadeOut(3000);
              }
 
