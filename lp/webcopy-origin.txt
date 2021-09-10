@@ -1,0 +1,436 @@
+Uri: https://pv.euiluminado.com/pv-googleff/
+File Name: C:\Temp\webcopy\pv.euiluminado.com\pv-googleff\index.htm
+Content Type: text/html
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: application/octet-stream
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://pv.euiluminado.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.4
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\header-footer-elementor\assets\css\header-footer-elementor.css
+Content Type: text/css
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.12.0
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.3.1
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/elementor/css/post-32.css?ver=1628265133
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\elementor\css\post-32.css
+Content Type: text/css
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.0.5
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/elementor/css/global.css?ver=1628265134
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/elementor/css/post-941.css?ver=1631209879
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\elementor\css\post-941.css
+Content Type: text/css
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.4
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\header-footer-elementor\inc\widgets-css\frontend.css
+Content Type: text/css
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/elementor/css/post-245.css?ver=1628265134
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\elementor\css\post-245.css
+Content Type: text/css
+
+Uri: https://pv.euiluminado.com/wp-content/themes/hostfy/style.css?ver=5.8.1
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\themes\hostfy\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Open+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.8.1
+File Name: C:\Temp\webcopy\pv.euiluminado.com\css.css
+Content Type: text/css
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://pv.euiluminado.com/wp-json/
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://pv.euiluminado.com/wp-json/wp/v2/pages/941
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-json\wp\v2\pages\941.json
+Content Type: application/json
+
+Uri: https://pv.euiluminado.com/xmlrpc.php?rsd
+File Name: C:\Temp\webcopy\pv.euiluminado.com\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://pv.euiluminado.com/wp-includes/wlwmanifest.xml
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://pv.euiluminado.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fpv.euiluminado.com%2Fpv-googleff%2F
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://pv.euiluminado.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fpv.euiluminado.com%2Fpv-googleff%2F&format=xml
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/Favicon-1-150x150.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\Favicon-1-150x150.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/Favicon-1-300x300.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\Favicon-1-300x300.png
+Content Type: image/png
+
+Uri: https://api.whatsapp.com/send?phone=5531991280680&text=Gostaria saber mais sobre o Iluminado
+File Name: C:\Temp\webcopy\pv.euiluminado.com\send.html
+Content Type: text/html
+
+Uri: https://euiluminado.com/politica-de-privacidade
+File Name: C:\Temp\webcopy\pv.euiluminado.com\index.html
+Content Type: text/html
+
+Uri: https://euiluminado.com/termos-de-uso
+File Name: C:\Temp\webcopy\pv.euiluminado.com\index-1.html
+Content Type: text/html
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/table-of-content.min.css?ver=4.9.0
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\table-of-content.min.css
+Content Type: text/css
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.3.1
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-801021513
+File Name: C:\Temp\webcopy\pv.euiluminado.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js
+File Name: C:\Temp\webcopy\pv.euiluminado.com\ajax\libs\jquery\3.6.0\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-N9W3KNFBGZ
+File Name: C:\Temp\webcopy\pv.euiluminado.com\gtag\js-1.js
+Content Type: application/javascript
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/logo.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\logo.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/notebook-compress.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\notebook-compress.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/cel-iluminado.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\cel-iluminado.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/metodologia-942x1024.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\metodologia-942x1024.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/depo-iluminadisPrancheta-1-copiar-3.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\depo-iluminadisPrancheta-1-copiar-3.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/depo-iluminadisPrancheta-1.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\depo-iluminadisPrancheta-1.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/depo-iluminadisPrancheta-1-copiar.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\depo-iluminadisPrancheta-1-copiar.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/depo-iluminadisPrancheta-1-copiar-2.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\depo-iluminadisPrancheta-1-copiar-2.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/Prancheta-1-copiar-2-1.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\Prancheta-1-copiar-2-1.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/Prancheta-1-copiar-3-1.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\Prancheta-1-copiar-3-1.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/Prancheta-1-copiar-1.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\Prancheta-1-copiar-1.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/Prancheta-1-1.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\Prancheta-1-1.png
+Content Type: image/png
+
+Uri: https://player.vimeo.com/video/560445477?color&autopause=0&loop=0&muted=0&title=0&portrait=0&byline=0
+File Name: C:\Temp\webcopy\pv.euiluminado.com\video\560445477.html
+Content Type: text/html
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/kaisser-antes-e-depois-compress-1.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\kaisser-antes-e-depois-compress-1.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/garantia-1.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\garantia-1.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/curso-marketing.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\curso-marketing.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/profissao-afiliado.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\profissao-afiliado.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/fundamentos-facebook.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\fundamentos-facebook.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/gadsss.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\gadsss.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/profissao-designer-digital-1.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\profissao-designer-digital-1.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/profissao-trafego-local.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\profissao-trafego-local.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/estrategia-email-marketing-1.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\estrategia-email-marketing-1.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/profissao-lancamentos-1.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\profissao-lancamentos-1.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/profissao-social-media-1.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\profissao-social-media-1.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/price-total.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\price-total.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/formas-de-pagamento-min.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\formas-de-pagamento-min.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/whatsapp-2.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\whatsapp-2.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-includes/js/wp-embed.min.js?ver=5.8.1
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://pv.euiluminado.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://pv.euiluminado.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/table-of-content.min.js?ver=4.9.0
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\table-of-content.min.js
+Content Type: application/javascript
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.3.1
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.3.1
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.5
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.5
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://pv.euiluminado.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.3.1
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.3.1
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://pv.euiluminado.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.3.1
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/javascript
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/logo-300x97.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\logo-300x97.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/notebook-compress-300x175.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\notebook-compress-300x175.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/notebook-compress-768x447.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\notebook-compress-768x447.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/cel-iluminado-286x300.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\cel-iluminado-286x300.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/cel-iluminado-768x805.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\cel-iluminado-768x805.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/metodologia-276x300.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\metodologia-276x300.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/metodologia-768x835.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\metodologia-768x835.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/metodologia-1412x1536.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\metodologia-1412x1536.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/metodologia-1883x2048.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\metodologia-1883x2048.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/depo-iluminadisPrancheta-1-copiar-3-300x188.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\depo-iluminadisPrancheta-1-copiar-3-300x188.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/depo-iluminadisPrancheta-1-300x188.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\depo-iluminadisPrancheta-1-300x188.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/depo-iluminadisPrancheta-1-copiar-300x188.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\depo-iluminadisPrancheta-1-copiar-300x188.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/depo-iluminadisPrancheta-1-copiar-2-300x188.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\depo-iluminadisPrancheta-1-copiar-2-300x188.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/Prancheta-1-copiar-2-1-300x188.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\Prancheta-1-copiar-2-1-300x188.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/Prancheta-1-copiar-3-1-300x188.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\Prancheta-1-copiar-3-1-300x188.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/Prancheta-1-copiar-1-300x188.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\Prancheta-1-copiar-1-300x188.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/Prancheta-1-1-300x188.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\Prancheta-1-1-300x188.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/kaisser-antes-e-depois-compress-1-300x189.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\kaisser-antes-e-depois-compress-1-300x189.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/kaisser-antes-e-depois-compress-1-768x484.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\kaisser-antes-e-depois-compress-1-768x484.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/garantia-1-300x300.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\garantia-1-300x300.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/garantia-1-150x150.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\garantia-1-150x150.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/price-total-300x95.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\price-total-300x95.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/formas-de-pagamento-min-300x66.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\formas-de-pagamento-min-300x66.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/formas-de-pagamento-min-768x168.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\formas-de-pagamento-min-768x168.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/whatsapp-2-300x300.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\whatsapp-2-300x300.png
+Content Type: image/png
+
+Uri: https://pv.euiluminado.com/wp-content/uploads/2021/06/whatsapp-2-150x150.png
+File Name: C:\Temp\webcopy\pv.euiluminado.com\wp-content\uploads\2021\06\whatsapp-2-150x150.png
+Content Type: image/png
+
+Uri: https://wordpress.org/
+File Name: C:\Temp\webcopy\pv.euiluminado.com\index.htm
+Content Type: text/html
+
+Uri: https://ev.braip.com/checkout/plaegr0k/che5j5v5?src=google&utm_source=google&utm_campaign=google&utm_medium=google&pl=plaegr0k&ck=che5j5v5&af=afilgv6lq
+File Name: C:\Temp\webcopy\pv.euiluminado.com\checkout\plaegr0k\che5j5v5.html
+Content Type: text/html
+
+Uri: https://ev.braip.com/checkout/pladovde/chel1ev4?src=google&utm_source=google&utm_campaign=google&utm_medium=google&pl=pladovde&ck=chel1ev4&af=afilgv6lq
+File Name: C:\Temp\webcopy\pv.euiluminado.com\checkout\pladovde\chel1ev4.html
+Content Type: text/html
+

@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="csrf-token" content="YA8aylWqmli33GZQBf39hptaj9oBehfms2QYhWUp">
+    <meta name="mp-public-token" content="APP_USR-b31e4b44-344f-4fde-b76d-6a58115bd532">
+    <meta name="robots" content="none" />
+    <title>Método Iluminado</title>
+
+    <!-- favicon -->
+    <link rel="shortcut icon" type="image/png" href="/img/checkout/favicon.png">
+    <link rel="icon" type="image/png" href="/img/checkout/favicon.png">
+
+    <!-- Style Bootstrap e FontAwesome -->
+    <link rel="stylesheet" rel="preload" as="style" type="text/css" href="/css/bootstrap.min.css?v=1631286654">
+    <link rel="stylesheet" rel="preload" as="style" type="text/css" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+
+    
+    <!-- JQUERY -->
+    <script type="text/javascript" src="/vendor/jquery/dist/jquery.min.js"></script>
+
+    <!-- BOOTSTRAP -->
+    <script type="text/javascript" src="/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    
+    
+    <link rel="stylesheet" type="text/css" href="/vendor/sweetalert2/dist/sweetalert2.min.css">
+    <link rel="stylesheet" type="text/css" href="https://ev.braip.com/js/checkout/select2/select2.min.css">
+
+    <!-- Style personalizado -->
+    <link rel="stylesheet" type="text/css" href="/css/checkout.css?id=c4ae440bb49f72971896">
+    <link href="/css/intlTelInput.min.css?v=1631286654" rel="stylesheet">
+    <style>
+        .flip-clock-wrapper.contador-topo ul li a div div.inn {
+            color: black !important;
+        }
+        .faixa-contator {
+            background-color: #000000;
+        }
+        a.font-telefone-suporte{
+            color: #786bfa;
+        }
+        a.font-telefone-suporte:hover{
+            color: #786bfa;
+        }
+        .btn.m-btn--pill {
+            -webkit-border-radius: 60px;
+            -moz-border-radius: 60px;
+            -ms-border-radius: 60px;
+            -o-border-radius: 60px;
+            border-radius: 60px;
+        }
+        a.whatsapp_suporte {
+            position: fixed;
+            top: auto !important;
+            right: 20px !important;
+            float: none;
+            bottom: 100px;
+            z-index: 1000001 !important;
+            max-height: 60px;
+            max-width: 60px;
+            background: #02a84e;
+        }
+        a.whatsapp_suporte i {
+            font-size: 35px;
+        }
+        .iti__flag-container ul#iti-0__country-listbox {
+            z-index: 99999;
+        }
+    </style>
+
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133867720-2"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-133867720-2', { 'groups': 'braip_analytics' });
+</script>
+<!-- Google Tag Manager -->
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','gtmDataLayer','GTM-5LFJK3P');
+</script>
+<!-- End Google Tag Manager -->
+<!-- Producer -->
+    <!-- Producer - Google - head -->
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script>
+            gtag('config', "UA-153090022-1", { 'groups': 'braip_analytics' });
+        </script>
+        <!-- Producer - Google - head -->
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script>
+            gtag('config', "G-1RX6YHWETP", { 'groups': 'braip_analytics' });
+        </script>
+            <script src="/js/checkout/ga.js?id=0afc1d6a86831be0e60d"></script>
+<script src="/js/checkout/google-tag-manager.js?id=4b4efbee7e16671f9f69"></script>        <iframe src="https://ev.braip.com/checkout/show-pixel-checkout?pixel=%7B%22hash%22%3A%22pix7jnz4%22%2C%22url%22%3Anull%2C%22eventIds%22%3A%7B%22InitiateCheckout%22%3A%22613b9f05f1c2b%22%2C%22PageView%22%3A%22613b9f05f1c2c%22%7D%7D" width="0" height="0" style="display: none;"></iframe>
+                <iframe src="https://ev.braip.com/checkout/show-pixel-checkout?pixel=%7B%22hash%22%3A%22pix03qz4%22%2C%22url%22%3Anull%2C%22eventIds%22%3A%7B%22InitiateCheckout%22%3A%22613b9f05f1c6d%22%2C%22PageView%22%3A%22613b9f05f1c6e%22%7D%7D" width="0" height="0" style="display: none;"></iframe>
+                <iframe src="https://ev.braip.com/checkout/show-pixel-checkout?pixel=%7B%22hash%22%3A%22pixxmyz4%22%2C%22url%22%3Anull%2C%22eventIds%22%3A%7B%22InitiateCheckout%22%3A%22613b9f05f1c98%22%2C%22PageView%22%3A%22613b9f05f1c99%22%7D%7D" width="0" height="0" style="display: none;"></iframe>
+                <iframe src="https://ev.braip.com/checkout/show-pixel-checkout?pixel=%7B%22hash%22%3A%22pix13my7%22%2C%22url%22%3Anull%2C%22eventIds%22%3A%7B%22InitiateCheckout%22%3A%22613b9f05f1cbe%22%2C%22PageView%22%3A%22613b9f05f1cbf%22%7D%7D" width="0" height="0" style="display: none;"></iframe>
+            <script type="text/javascript"> 
+            (function(funnel) { 
+                var insert = document.getElementsByTagName('script')[0], 
+                script = document.createElement('script');
+                script.addEventListener('load', function() { window.funnelytics.init(funnel, false); });
+                script.src = 'https://cdn.funnelytics.io/track.js';
+                script.type = 'text/javascript';
+                script.async = true;
+                insert.parentNode.insertBefore(script, insert); })
+            ('a91fda27-0107-4b79-bd22-19ff11fb6b30'); 
+        </script>
+                    
+            <script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body>
+            <section class="container-fluid marginless paddingless relative section-banner-topo">
+    <div class="efeito-banner-topo">
+        <picture>
+            <source media="(min-width:650px)" srcset="https://braip.nyc3.cdn.digitaloceanspaces.com/public/cdn/IPz4nFTnNfDYNqgnErN09yXAky1WrbuztSh6aaSI.jpg" alt="Método Iluminado">
+                            <img src="https://braip.nyc3.cdn.digitaloceanspaces.com/public/cdn/IPz4nFTnNfDYNqgnErN09yXAky1WrbuztSh6aaSI.jpg" alt="Método Iluminado">
+                    </picture>
+    </div>
+    <div class="container marginless paddingless margin-auto">
+        <div class="row">
+            <div class="col-sm-12">
+                <picture>
+                    <source media="(min-width:650px)" srcset="https://braip.nyc3.cdn.digitaloceanspaces.com/public/cdn/IPz4nFTnNfDYNqgnErN09yXAky1WrbuztSh6aaSI.jpg" alt="Método Iluminado">
+                                            <img src="https://braip.nyc3.cdn.digitaloceanspaces.com/public/cdn/IPz4nFTnNfDYNqgnErN09yXAky1WrbuztSh6aaSI.jpg" alt="Método Iluminado" class="lazy img-banner-topo img-responsive loaded">
+                                    </picture>
+            </div>
+        </div>
+    </div>
+</section>
+    <section class="container-fluid">
+    <div class="container">
+        <div class="row painel">
+            <div class="col-sm-6 col-md-4 marginless paddingless">
+                <div class="icon-detalhes">
+                    <div class="icon-detalhes-icon">
+                        <i class="fas fa-shopping-cart"></i>
+                    </div>
+                    <div class="icon-detalhes-text">
+                        <h5 class="marginless paddingless font-bold">VOCÊ ESTÁ ADQUIRINDO:</h5>
+                                                    <p class="marginless">Método Iluminado: Método Iluminado - Mensal</p>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>                    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LFJK3P"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+                <section class="container-fluid">
+            <div class="container paddingless">
+                <div class="row">
+                    <div class="col-sm-12 col-md-12">
+                        <!-- BANNER SUB TOPO -->
+                                                    <div class="row">
+                                <div class="col-sm-12">
+                                    <picture>
+                                        <source media="(min-width:650px)" srcset="https://braip.nyc3.cdn.digitaloceanspaces.com/public/cdn/sn5IgmnsEsE5Q0CEUYSW5GJpIUmF0wpf4PiCKPDB.jpg" alt="Método Iluminado">
+                                                                                    <img src="https://braip.nyc3.cdn.digitaloceanspaces.com/public/cdn/sn5IgmnsEsE5Q0CEUYSW5GJpIUmF0wpf4PiCKPDB.jpg" alt="Método Iluminado" class="lazy img-responsive img-banner-lateral-sub-topo">
+                                                                            </picture>
+                                </div>
+                            </div>
+                                                
+                        <form action="" id="form-checkout-venda" method="POST">
+    <div id="last-card" style="display:none;"></div>
+    <input type="hidden" value="" name="token_cartao">
+    <input type="hidden" value="" name="hash" id="hash">
+    <input type="hidden" value="https://ev.braip.com/checkout/plaegr0k/che5j5v5?af=afilgv6lq&amp;ck=che5j5v5&amp;pl=plaegr0k&amp;src=google&amp;utm_campaign=google&amp;utm_medium=google&amp;utm_source=google" name="link_checkout">
+    <input type="hidden" value="" name="token_cartao2">
+    <input type="hidden" value="plaegr0k" name="plano_hash">
+    <input type="hidden" value="che5j5v5" name="checkout_hash">
+    <input type="hidden" value="" name="venda">
+    <input type="hidden" name="meta" value="{&quot;src&quot;:&quot;google&quot;,&quot;utm_source&quot;:&quot;google&quot;,&quot;utm_campaign&quot;:&quot;google&quot;,&quot;utm_medium&quot;:&quot;google&quot;,&quot;pl&quot;:&quot;plaegr0k&quot;,&quot;ck&quot;:&quot;che5j5v5&quot;,&quot;af&quot;:&quot;afilgv6lq&quot;}">
+    <input type="hidden" value="2" name="tipo_pagamento">
+    <input type="hidden" value="" name="popup_ativo">
+    <input type="hidden" value="" name="cupom_ativo">
+    <input type="hidden" value="" name="cupom_hash">
+    <input type="hidden" value="" name="fingerprint" id="fingerprint">
+    <input type="hidden" value="0" name="ads_block" id="ads_block">
+    <input type="hidden" value="" name="hash_assinatura">
+    <input type="hidden" name="dois_cartoes" value="0">
+    <input type="hidden" name="mp_device_id" id="deviceId">
+            <input type="hidden" value="" name="cep_invalido">
+    <div class="row">
+        <div  class="col-sm-6" >
+            <div class="painel v2">
+                <div class="label-painel">
+                    <span class="font-black">1</span>
+                    <h6 class="font-bold marginless paddingless">DADOS PESSOAIS</h6>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="form-group">
+                            <label for="nome">NOME</label>
+                            <input type="text" autocomplete="name" class="form-control" id="nome" placeholder="Nome Completo" name="nome" value="" maxlength="40" >
+                        </div>
+                    </div>
+                                        <div class="col-sm-12">
+                        <div class="form-group">
+                            <label for="email">EMAIL</label>
+                            <input type="email" class="form-control" autocomplete="email" id="email" name="email" value="" placeholder="E-mail" >
+                            <div class="checkbox">
+                                                            </div>
+                            <span class="text-info" id="telefone_obrigatorio" hidden>Atenção! Informe um telefone ou celular para que seja possível entrar em contato, caso necessário.</span>
+                        </div>
+                    </div>
+                                            <div class="col-sm-12">
+                            <div class="form-group">
+                                <label for="email">CONFIRMAÇÃO DE EMAIL</label>
+                                <input type="email" class="form-control" id="confirmacao_email" name="confirmacao_email" value="" placeholder="Confirmação de E-mail" autocomplete="off" >
+                            </div>
+                        </div>
+                                        <div class="col-sm-12 col-md-12" >
+                        <div class="form-group">
+                            <label for="pais">NACIONALIDADE</label>
+                            <select class="form-control valid select2" name="pais" id="pais">
+                                <option value="AF">Afghanistan</option>
+<option value="AX">Aland Islands</option>
+<option value="AL">Albania</option>
+<option value="DZ">Algeria</option>
+<option value="AS">American Samoa </option>
+<option value="AD">Andorra</option>
+<option value="AO">Angola </option>
+<option value="AI">Anguilla </option>
+<option value="AQ">Antarctica </option>
+<option value="AG">Antigua and Barbuda</option>
+<option value="AR">Argentina</option>
+<option value="AM">Armenia</option>
+<option value="AW">Aruba</option>
+<option value="AU">Australia</option>
+<option value="AT">Austria</option>
+<option value="AZ">Azerbaijan </option>
+<option value="BS">Bahamas</option>
+<option value="BH">Bahrain</option>
+<option value="BD">Bangladesh </option>
+<option value="BB">Barbados </option>
+<option value="BY">Belarus</option>
+<option value="BE">Belgium</option>
+<option value="BZ">Belize </option>
+<option value="BJ">Benin</option>
+<option value="BM">Bermuda</option>
+<option value="BT">Bhutan </option>
+<option value="BO">Bolivia</option>
+<option value="BA">Bosnia and Herzegovina </option>
+<option value="BW">Botswana </option>
+<option value="BV">Bouvet Island</option>
+<option value="BR" selected>Brasil</option>
+<option value="IO">British Indian Ocean Territory </option>
+<option value="BN">Brunei Darussalam</option>
+<option value="BG">Bulgaria </option>
+<option value="BF">Burkina Faso </option>
+<option value="BI">Burundi</option>
+<option value="CI">Côte d'Ivoire </option>
+<option value="KH">Cambodia </option>
+<option value="CM">Cameroon </option>
+<option value="CA">Canada </option>
+<option value="CV">Cape Verde </option>
+<option value="KY">Cayman Islands </option>
+<option value="CF">Central African Republic </option>
+<option value="TD">Chad </option>
+<option value="CL">Chile</option>
+<option value="CN">China</option>
+<option value="CX">Christmas Island </option>
+<option value="CC">Cocos (Keeling) Islands</option>
+<option value="CO">Colombia </option>
+<option value="KM">Comoros</option>
+<option value="CG">Congo</option>
+<option value="CD">Congo, The Democratic Republic of the</option>
+<option value="CK">Cook Islands </option>
+<option value="CR">Costa Rica </option>
+<option value="HR">Croatia</option>
+<option value="CU">Cuba </option>
+<option value="CY">Cyprus </option>
+<option value="CZ">Czech Republic </option>
+<option value="DK">Denmark</option>
+<option value="DJ">Djibouti </option>
+<option value="DM">Dominica </option>
+<option value="DO">Dominican Republic </option>
+<option value="EC">Ecuador</option>
+<option value="EG">Egypt</option>
+<option value="SV">El Salvador</option>
+<option value="GQ">Equatorial Guinea</option>
+<option value="ER">Eritrea</option>
+<option value="EE">Estonia</option>
+<option value="ET">Ethiopia </option>
+<option value="FK">Falkland Islands (Malvinas)</option>
+<option value="FO">Faroe Islands</option>
+<option value="FJ">Fiji </option>
+<option value="FI">Finland</option>
+<option value="FR">France </option>
+<option value="GF">French Guiana</option>
+<option value="PF">French Polynesia </option>
+<option value="TF">French Southern Territories</option>
+<option value="GA">Gabon</option>
+<option value="GM">Gambia </option>
+<option value="GE">Georgia</option>
+<option value="DE">Germany</option>
+<option value="GH">Ghana</option>
+<option value="GI">Gibraltar</option>
+<option value="GR">Greece </option>
+<option value="GL">Greenland</option>
+<option value="GD">Grenada</option>
+<option value="GP">Guadeloupe </option>
+<option value="GU">Guam </option>
+<option value="GT">Guatemala</option>
+<option value="GG">Guernsey </option>
+<option value="GN">Guinea </option>
+<option value="GW">Guinea-Bissau</option>
+<option value="GY">Guyana </option>
+<option value="HT">Haiti</option>
+<option value="HM">Heard Island and McDonald Islands</option>
+<option value="VA">Holy See (Vatican City State)</option>
+<option value="HN">Honduras </option>
+<option value="HK">Hong Kong</option>
+<option value="HU">Hungary</option>
+<option value="IS">Iceland</option>
+<option value="IN">India</option>
+<option value="ID">Indonesia</option>
+<option value="IR">Iran, Islamic Republic of</option>
+<option value="IQ">Iraq </option>
+<option value="IE">Ireland</option>
+<option value="IM">Isle of Man</option>
+<option value="IL">Israel </option>
+<option value="IT">Italy</option>
+<option value="JM">Jamaica</option>
+<option value="JP">Japan</option>
+<option value="JE">Jersey </option>
+<option value="JO">Jordan </option>
+<option value="KZ">Kazakhstan </option>
+<option value="KE">Kenya</option>
+<option value="KI">Kiribati </option>
+<option value="KP">Korea, Democratic People&#39;s Republic of</option>
+<option value="KR">Korea, Republic of </option>
+<option value="KW">Kuwait </option>
+<option value="KG">Kyrgyzstan </option>
+<option value="LA">Lao People&#39;s Democratic Republic </option>
+<option value="LV">Latvia </option>
+<option value="LB">Lebanon</option>
+<option value="LS">Lesotho</option>
+<option value="LR">Liberia</option>
+<option value="LY">Libyan Arab Jamahiriya </option>
+<option value="LI">Liechtenstein</option>
+<option value="LT">Lithuania</option>
+<option value="LU">Luxembourg </option>
+<option value="MO">Macao</option>
+<option value="MK">Macedonia</option>
+<option value="MG">Madagascar </option>
+<option value="MW">Malawi </option>
+<option value="MY">Malaysia </option>
+<option value="MV">Maldives </option>
+<option value="ML">Mali </option>
+<option value="MT">Malta</option>
+<option value="MH">Marshall Islands </option>
+<option value="MQ">Martinique </option>
+<option value="MR">Mauritania </option>
+<option value="MU">Mauritius</option>
+<option value="YT">Mayotte</option>
+<option value="MX">Mexico </option>
+<option value="FM">Micronesia, Federated States of</option>
+<option value="MD">Moldova, Republic of </option>
+<option value="MC">Monaco </option>
+<option value="MN">Mongolia </option>
+<option value="ME">Montenegro </option>
+<option value="MS">Montserrat </option>
+<option value="MA">Morocco</option>
+<option value="MZ">Mozambique </option>
+<option value="MM">Myanmar</option>
+<option value="NA">Namibia</option>
+<option value="NR">Nauru</option>
+<option value="NP">Nepal</option>
+<option value="NL">Netherlands</option>
+<option value="AN">Netherlands Antilles </option>
+<option value="NC">New Caledonia</option>
+<option value="NZ">New Zealand</option>
+<option value="NI">Nicaragua</option>
+<option value="NE">Niger</option>
+<option value="NG">Nigeria</option>
+<option value="NU">Niue </option>
+<option value="NF">Norfolk Island </option>
+<option value="MP">Northern Mariana Islands </option>
+<option value="NO">Norway </option>
+<option value="OM">Oman </option>
+<option value="PK">Pakistan </option>
+<option value="PW">Palau</option>
+<option value="PS">Palestinian Territory, Occupied</option>
+<option value="PA">Panama </option>
+<option value="PG">Papua New Guinea </option>
+<option value="PY">Paraguay </option>
+<option value="PE">Peru </option>
+<option value="PH">Philippines</option>
+<option value="PN">Pitcairn </option>
+<option value="PL">Poland </option>
+<option value="PT">Portugal </option>
+<option value="PR">Puerto Rico</option>
+<option value="QA">Qatar</option>
+<option value="RE">RÃƒÂ©union </option>
+<option value="RO">Romania</option>
+<option value="RU">Russian Federation </option>
+<option value="RW">Rwanda </option>
+<option value="SH">Saint Helena </option>
+<option value="KN">Saint Kitts and Nevis</option>
+<option value="LC">Saint Lucia</option>
+<option value="MF">Saint Martin </option>
+<option value="PM">Saint Pierre and Miquelon</option>
+<option value="VC">Saint Vincent and the Grenadines </option>
+<option value="WS">Samoa</option>
+<option value="SM">San Marino </option>
+<option value="ST">Sao Tome and Principe</option>
+<option value="SA">Saudi Arabia </option>
+<option value="SN">Senegal</option>
+<option value="RS">Serbia </option>
+<option value="SC">Seychelles </option>
+<option value="SL">Sierra Leone </option>
+<option value="SG">Singapore</option>
+<option value="SK">Slovakia </option>
+<option value="SI">Slovenia </option>
+<option value="SB">Solomon Islands</option>
+<option value="SO">Somalia</option>
+<option value="ZA">South Africa </option>
+<option value="GS">South Georgia and the South Sandwich Islands</option>
+<option value="ES">Spain</option>
+<option value="LK">Sri Lanka</option>
+<option value="SD">Sudan</option>
+<option value="SR">Suriname </option>
+<option value="SJ">Svalbard and Jan Mayen </option>
+<option value="SZ">Swaziland</option>
+<option value="SE">Sweden </option>
+<option value="CH">Switzerland</option>
+<option value="SY">Syrian Arab Republic </option>
+<option value="TW">Taiwan </option>
+<option value="TJ">Tajikistan </option>
+<option value="TZ">Tanzania, United Republic of </option>
+<option value="TH">Thailand </option>
+<option value="TL">Timor-Leste</option>
+<option value="TG">Togo </option>
+<option value="TK">Tokelau</option>
+<option value="TO">Tonga</option>
+<option value="TT">Trinidad and Tobago</option>
+<option value="TN">Tunisia</option>
+<option value="TR">Turkey </option>
+<option value="TM">Turkmenistan </option>
+<option value="TC">Turks and Caicos Islands </option>
+<option value="TV">Tuvalu </option>
+<option value="UG">Uganda </option>
+<option value="UA">Ukraine</option>
+<option value="AE">United Arab Emirates </option>
+<option value="GB">United Kingdom </option>
+<option value="US">United States</option>
+<option value="UM">United States Minor Outlying Islands </option>
+<option value="UY">Uruguay</option>
+<option value="UZ">Uzbekistan </option>
+<option value="VU">Vanuatu</option>
+<option value="VE">Venezuela, Bolivarian Republic of</option>
+<option value="VN">Vietnam </option>
+<option value="VG">Virgin Islands, British</option>
+<option value="VI">Virgin Islands, U.S. </option>
+<option value="WF">Wallis and Futuna</option>
+<option value="EH">Western Sahara </option>
+<option value="YE">Yemen</option>
+<option value="ZM">Zambia </option>
+<option value="ZW">Zimbabwe </option>                            </select>
+                            <input type="hidden" name="nacionalidade" value="">
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-12">
+                        <div class="form-group" id="cpf-cnpj">
+                            <label for="documento">CPF/CNPJ</label>
+                            <input id="documento" type="text" name="documento" class="form-control cpf-cnpj" maxlength="18" value="" placeholder="CPF/CNPJ" >
+                        </div>
+                        <div id="docs" hidden="true">
+                            <input type="text" id="docNumber" data-checkout="docNumber">
+                            <select id="docType" data-checkout="docType">
+                        </div>
+                        <div class="form-group hidden" id="documento-estrangeiro">
+                            <label for="documento">DOCUMENTO</label>
+                            <input type="text" class="form-control" placeholder="Documento" id="doc-estrangeiro">
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-12">
+                        <div class="form-group">
+                            <label for="celular">CELULAR COM DDD</label><br>
+                            <input type="text" class="form-control phone" autocomplete="tel" name="celular" id="celular" value="" >
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    </div>
+        <div  class="col-sm-6" >
+            <div class="painel v2">
+                <div class="label-painel">
+                    <span class="font-black">2</span>
+                    <h6 class="font-bold marginless paddingless"> DADOS DE PAGAMENTO </h6>
+                </div>
+                
+                <!-- MENU MEIO DE PAGAMENTO -->
+                                    <button class="btn btn-default hidden btn-pagamento active" type="button" id="pagarcom-cartao" data-pagamento="cartao" data-tipo-pagamento="2">
+                        <i class="far fa-credit-card"></i>
+                        <span>Cartão de Crédito</span>
+                    </button>
+                                <span class="aviso-descontos esconder" id="total_descontos"></span>
+
+                                                                            <div class="pagamento hidden" id="pagamento-cartao" data-cartao=credito>
+                                                            <h5 class="font-bold">
+    DADOS DO CARTÃO
+</h5>
+<div class="card-cred" id="credito"></div>
+
+<div class="form-group">
+    <label for="cardNumber">NÚMERO DO CARTÃO</label>
+    <div class="input-group">
+        <span class="input-group-addon"><i class="far fa-credit-card"></i></span>
+        <input type="tel" autocomplete="cc-number" class="form-control" placeholder="Digite somente os números" name="credito_numero_cartao" data-cartao="credito" data-name='numero_cartao' data-iugu="number" data-encrypted-name="number" value="" data-checkout="cardNumber" onselectstart="return false" onCopy="return false" onCut="return false" onDrag="return false" onDrop="return false">
+    </div>
+    <span class="esconder text-danger" id="credito_numero_cartao-error">Informe um número válido</span>
+    <span class="esconder text-danger number-cards-duplicate">Os números de cartōes não podem ser iguais.</span>
+</div>
+<div class="form-group">
+    <label for="cc-name">NOME DO TITULAR</label>
+    <div class="input-group">
+        <span class="input-group-addon"><i class="far fa-user"></i></span>
+        <input type="text" autocomplete="cc-name" data-cartao="credito" name="credito_full_name" class="form-control" data-checkout="cardholderName" data-iugu="full_name" placeholder="Digite o nome completo impresso no cartão" data-name='full_name' data-encrypted-name="holderName" class="form-control cartao" maxlength="255" value="" placeholder="Digite o nome como no cartão" data-checkout="cardholderName">
+    </div>
+    <span class="esconder text-danger" id="credito_full_name-error" >Informe um nome válido</span>
+</div>
+<div class="row">
+    <div class="col-sm-6">
+        <div class="form-group">
+            <label class="mes" for="mes">DATA DE VALIDADE</label>
+            <div class="expiry-date-group form-group" >
+                <div class="input-container is-flex" >
+                    <input type="text" maxlength="2" name="credito_mes" class="form-control" autocomplete="cc-exp-month" data-cartao="credito"  data-encrypted-name="expiryMonth" placeholder="Mês" data-name='mes' style="margin-right: 10px;" data-checkout="cardExpirationMonth" onselectstart="return false" onpaste="return false" onCopy="return false" onCut="return false" onDrag="return false" onDrop="return false" autocomplete=off/>
+                    <input type="text" maxlength="2" name="credito_ano" autocomplete="cc-exp-year" class="form-control cartao" data-cartao="credito"  placeholder="Ano" data-name='ano_exibido' onselectstart="return false" onpaste="return false" onCopy="return false" onCut="return false" onDrag="return false" onDrop="return false" autocomplete=off/>
+                    <input type="hidden" data-cartao="credito"  data-name='ano' autocomplete="cc-exp" class="form-control cartao" placeholder="Ano" data-encrypted-name="expiryYear" data-checkout="cardExpirationYear"  onselectstart="return false" onpaste="return false" onCopy="return false" onCut="return false" onDrag="return false" onDrop="return false" autocomplete=off value="20">
+                </div>
+            <span class="esconder text-danger" id="credito_data-validade-error">Informe uma data de validade válida. (mês e ano completo)</span>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <div class="form-group">
+            <label for="cvc">CVC</label>
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fas fa-lock"></i></span>
+                <input class="form-control" name="credito_cvc" placeholder="CVC" autocomplete="cc-csc" type="number" data-cartao="credito" data-name='codigo_seguranca' data-iugu="verification_value" data-encrypted-name="cvc" value="" data-checkout="securityCode" onselectstart="return false" onpaste="return false" onCopy="return false" onCut="return false" onDrag="return false" onDrop="return false" autocomplete=off>
+                <input type="hidden" value="2021-09-10T15:08:06-03:00" data-encrypted-name="generationtime"/>
+            </div>
+            <span class="esconder text-danger" id="credito_codigo_seguranca-error">Informe um código de segurança válido</span>
+        </div>
+    </div>
+</div>
+    <div class="form-group" id="parcelamento_cartao">
+                    <input type="hidden" data-name='parcelamento' data-cartao="credito" value="1">
+                        <h5 class="font-bold text-success"><i class="fas fa-redo"></i>&ThickSpace;PLANO DE ASSINATURA</h5>
+                        <div class="texto-assinatura"></div>
+                        </div>
+                                                    </div>
+                                    
+                
+                <div id="recaptcha" class="row recaptcha-row" style="display: none; margin-top: 10px">
+                                            <div data-sitekey="6LdOpsUUAAAAAKs3rr7_WDJGN8S3jYEgj0_Ka8Y2" class="g-recaptcha"></div>
+                                    </div>
+                <!-- BTN FINALIZAR COMPRA -->
+                <div class="row">
+                    <div class="col-sm-12">
+                        <hr>
+                                                                        <button class="btn btn-comprar" id="submit" type="submit" value="Pay">
+                             Comprar agora                         </button>
+                        <input type="hidden" name="mp_token">
+                        <input type="hidden" name="pagarme_token">
+                        <input type="hidden" name="pagarme_retentativa_token">
+                        <input type="hidden" name="paymentMethodId">
+                        <input type="hidden" name="payment_type">
+
+                        <input type="hidden" name="pagarme_retentativa_token_2">
+
+                        <input type="hidden" value="0" id="tentativas" name="tentativas">
+                        <p class="text-compra-segura">Ambiente criptografado e 100% seguro.</p>
+                        <img data-src="/img/checkout/compra-segura.png" alt="" class="lazy img-responsive compra-segura">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+            </div>
+</form>
+                    </div>
+                                    </div>
+            </div>
+        </section>
+        <section class="container-fluid">
+            <div class="container">
+                <div class="row painel">
+                    <div class="col-sm-6 col-md-6 marginless paddingless">
+                        <div class="icon-detalhes">
+                            <div class="icon-detalhes-icon">
+                                <i class="fas fa-address-card"></i>
+                            </div>
+                            <div class="icon-detalhes-text">
+                                <h5 class="marginless paddingless font-bold">E-MAIL DE SUPORTE:</h5>
+                                <p class="marginless"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="691a1c19061b1d0c290c1c00051c040007080d06">[email&#160;protected]</a>.com</p>
+                                                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-6 marginless paddingless is-flex">
+                        <div class="by-braip">
+                            <span>PAGAMENTO PROCESSADO POR:</span><br>
+                            <img data-src="/img/checkout/logo.png" alt="" class="lazy">
+                        </div>
+                        <div class="faixa-segurança">
+                            <svg width="16" height="20" viewBox="0 0 22 26" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M21.284 5.3s3.65 16.194-10.176 20.243C-2.718 21.494.93 5.3.93 5.3L11.108.644 21.284 5.3zM10.605 18.67l6.42-6.378-1.764-1.751-4.656 4.626-3.124-3.104-1.763 1.751 4.887 4.856z" fill="#fff"></path>
+                            </svg>
+                            <span class="">Compra 100% Segura</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+                <footer>
+            <div class="container">
+                                    <div class="row">
+                        <div class="col-sm-12">
+                            REF.: afilgv6lq
+                        </div>
+                    </div>
+                                <div class="row">
+                    <div class="col-sm-12">
+                        Esta compra será processada pela Braip © 2021 - Todos os direitos reservados.
+                        <br><br>
+                        * Taxa de 2,99% a.m.
+                        <br>
+                        ** Os descontos ofertados não são cumulativos. Prevalecerá o maior de desconto ofertado.
+                        <br>
+                        Ao continuar nesta compra, você concorda com os <a href="https://braip.com/termos-compra/" target="_blank">Termos de Compra</a> e <a href="https://braip.com/politica-privacidade/" target="_blank">Termos de Privacidade</a>.
+                    </div>
+                </div>
+            </div>
+        </footer>
+    
+    <!--begin:: Div Aviso Cookie -->
+    <div class="div-aviso-cookie" style="display: none;">
+    Ao navegar neste site, você aceita os cookies que usamos para melhorar sua experiência. <a href="https://braip.com/politica-privacidade/" target="_blank">Mais informações.</a> &nbsp;
+    <button class="btn btn-primary btn-sm m--font-boldest"><strong>Entendi</strong></button>
+</div>
+
+    <!--end:: Div Aviso Cookie -->
+            <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://browser.sentry-cdn.com/5.17.0/bundle.min.js" integrity="sha384-lowBFC6YTkvMIWPORr7+TERnCkZdo5ab00oH5NkFLeQUAmBTLGwJpFjF6djuxJ/5" crossorigin="anonymous"></script>
+    <script>Sentry.init({ dsn: 'https://805b6580607d4371ae4a02c80c5ff554@o877802.ingest.sentry.io/5828856' });</script>
+        <script src="https://ev.braip.com/js/intlTelInput.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js?hl=pt-BR" async defer></script>
+
+    <script>
+        var brasileiro = "1";
+        var estrangeiro = "2";
+        var boleto = "1"
+        var cartao = "2"
+        var fracionado = "3";
+        var pix = "5";
+        var qtdadeTentativas = 0;
+        var valor_original = parseInt(0);
+        var apenasParcelaUnica           = 1;
+        var aceitaParcelamentoAssinatura = parseInt(0);
+
+        var TIPO_PAGAMENTO = {
+            TODOS: 0,
+            BOLETO: boleto,
+            CARTAO: cartao,
+            FRACIONADO: fracionado,
+            PIX: pix,
+        };
+        var TIPO_DESCONTO = {
+            VAZIO: 0,
+            BOLETO: 1,
+            CUPOM: 2,
+            POPUP: 3,
+        };
+
+        var CONFIGS_CUPOM_ASSINATURA = {
+            NENHUMA_RECORRENCIA  : 0,
+            PRIMEIRA_RECORRENCIA : 1,
+            DUAS_RECORRENCIA     : 2,
+            TRES_RECORRENCIA     : 3,
+            SEIS_RECORRENCIA     : 4,
+            TODAS_RECORRENCIA    : 5,
+        };
+
+        var CONFIGS_PRIMEIRA_COBRANCA_ASS = {
+            GRATIS_POR_X_DIAS       : 1,
+            GRATIS_PRIMEIRA_COBRANCA: 2,
+            VALOR_X_POR_N_DIAS      : 3,
+        };
+
+        var CONFIG_PLANO_PRIMEIRA_COBRANCA_ASS       = '';
+        var CONFIG_PLANO_PRIMEIRA_COBRANCA_ASS_DIAS  = '';
+        var CONFIG_PLANO_PRIMEIRA_COBRANCA_ASS_VALOR = '';
+
+        var parcelas           = 1;
+        var parcelas_sem_juros = 1;
+        var parcelas_boleto    = 0;
+        var taxa_parcelamento  = 0.0299;
+        var split_parcela      = '1';
+        var split_boleto       = split_parcela;
+        var pay                = 'credito';
+        var termos             = '';
+
+        var valor_plano  = parseInt(19990);
+        var valor_order_bump = 0;
+        var valor_minimo_fracionado  = parseInt(0);
+        var fracionado_aceita_cartao = 0;
+        var planoHash    = "plaegr0k";
+        var checkoutHash = "che5j5v5";
+        var campanhaHash = "camoldj9";
+        var aplicaDescontoAssinatura     = false;
+        var cupomConfigAssinatura        = CONFIGS_CUPOM_ASSINATURA.NENHUMA_RECORRENCIA;
+        var quantidadeRecorrencia        = 0;
+        var quantidadeCobrancas          = "";
+
+        var descontoBoleto         = parseFloat(0);
+        var valorComDescontoBoleto = parseFloat(19990);
+        var descontoPopup          = parseFloat(0);
+        var valorComDescontoPopup  = parseFloat(19990);
+        var temPopupBoleto         = 0;
+        var descontoPopupAtivo     = false;
+        var cupomAtivo             = false;
+        var compraComDoisCartoes   = false;
+
+        var descontos     = {};
+        var cupomDesconto = TIPO_PAGAMENTO.TODOS;
+
+        var iuguID     = "C7723FF8F0A54EE9A50E92AE18D6FC7E";
+        var testMode   = !!"";
+
+        var routeAbandono           = "https://ev.braip.com/abandono/salvar"
+        var routeCalculaFrete       = "https://ev.braip.com/vendas/calcula-frete";
+        var routeSalvaVenda         = "https://ev.braip.com/vendas/salva-venda";
+        var routeValidaCupom        = "https://ev.braip.com/cupons/valida-cupom";
+        var routeObrigado           = "https://ev.braip.com/vendas/obrigado/#/che5j5v5";
+        var routeEnviaPixelCheckout = 'https://ev.braip.com/checkout/envia-pixel-checkout';
+        var storeCliqueUrl          = 'https://ev.braip.com/cliques/store';
+        var ipClient                = '10.136.195.85';
+        var emailObrigatorio        = '1';
+
+        var pixels            = '[{"hash":"pix7jnz4","url":null,"eventIds":{"InitiateCheckout":"613b9f05f1c2b","PageView":"613b9f05f1c2c"}},{"hash":"pix03qz4","url":null,"eventIds":{"InitiateCheckout":"613b9f05f1c6d","PageView":"613b9f05f1c6e"}},{"hash":"pixxmyz4","url":null,"eventIds":{"InitiateCheckout":"613b9f05f1c98","PageView":"613b9f05f1c99"}},{"hash":"pix13my7","url":null,"eventIds":{"InitiateCheckout":"613b9f05f1cbe","PageView":"613b9f05f1cbf"}}]';
+        var produto           = "Método Iluminado";
+        var categoriaProduto  = "Internet Marketing";
+        var produtoHash       = "pro0jdd2";
+        var quantidadePlano   = parseInt(1);
+
+        var solicitarEndereco   = '0';
+        var enderecoObrigatorio = '0';
+        var sexoObrigatorio     = '0';
+        var planoGratis         = parseInt('0');
+        var calculoFrete        = parseInt('0');
+
+        var formatoProdutoId    = "2";
+        var PRODUTO_FISICO      = '1';
+        var PRODUTO_INFOPRODUTO = '2';
+
+        var url_atual         = "https://ev.braip.com/checkout/plaegr0k/che5j5v5?af=afilgv6lq&ck=che5j5v5&pl=plaegr0k&src=google&utm_campaign=google&utm_medium=google&utm_source=google";
+        var url_redirect      = "";
+
+        var periodoAssinatura = '30';
+        var periodoLabel      = 'MENSAL';
+
+        var recebeContribuicao = parseInt('0');
+    </script>
+
+
+    <script src="https://ev.braip.com/js/checkout/select2/select2.min.js"></script>
+    <script src="https://ev.braip.com/js/checkout/select2/pt-BR.js"></script>
+
+    <script type="text/javascript" src="/js/aviso-cookie.js?v=1631286654"></script>
+    <script type="text/javascript" src="/js/checkout/vendor/jquery.mask.min.js"></script>
+    <script type="text/javascript" src="/vendor/jquery-maskmoney/jquery.maskMoney.min.js"></script>
+    <script type="text/javascript" src="/js/checkout/vendor/card-validator.js"></script>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js"></script>
+
+    <script type="text/javascript" src="/js/checkout/checkout-validations.js?id=542ec6658f64dcde9d0e"></script>
+    <script type="text/javascript" src="/js/checkout/checkout.js?id=02a284c968a3bf7ad867"></script>
+
+    
+    <script type="text/javascript" src="/js/checkout/vendor/iugu-v2.js"></script>
+
+    <script src="https://assets.pagar.me/pagarme-js/4.5/pagarme.min.js"></script>
+
+    <script src="https://www.mercadopago.com/v2/security.js" view="checkout"></script>
+
+    <script>
+        var KEY_PAGAR_ME             = "ek_live_BK05hwEeRjI13qtDTTKumsleD5ir94";
+        var KEY_PAGAR_ME_RETENTATIVA = "ek_live_qS1DJTyH8DBGIiaxMXpb3l0Vh0Cgeu";
+    </script>
+
+
+    <!-- SWEET ALERT -->
+    <script src="https://cdn.jsdelivr.net/npm/promise-polyfill@7.1.0/dist/promise.min.js"></script>
+    <script type="text/javascript" src="/vendor/sweetalert2/dist/sweetalert2.min.js"></script>
+
+    <!-- NOTIFICATIONS -->
+    
+    <!-- SCRIPTS CONTADOR -->
+    
+    <!-- CHATS -->
+    
+    <!-- Popup desconto.js -->
+    
+    <!-- Main.js -->
+    <script type="text/javascript" src="/js/checkout/main.js?id=9521a5232baeee1c2d49"></script>
+
+    <!-- LazyLoad -->
+    <script async type="text/javascript" src="/js/checkout/vendor/lazyload.min.js?v=1631286654"></script>
+        <script>
+        $(function () {
+            if (pay && $("[data-pagamento='" + pay + "']").html()) {
+                $("button[data-pagamento='" + pay + "']").click();
+            } else {
+                $('[data-pagamento]:first').click();
+            }
+
+            $('#sem_email').trigger('change');
+        });
+    </script>
+
+     
+     <script type="text/javascript" src="/js/checkout/cnads.js?id=cb0f22c9603bc0383ffe"></script>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'68ca9984ab8c261c',m:'wmyykGhe4g1lJ8yh5IoigrGOju3rBeJ_kCwprR71zD4-1631297286-0-Afd6dRNYhd1AezM/nJcYdMHMzjEUXzXQ/auQNz8FN/R/DlaeI/pJf/NrmJXdSsOcgfPhC4kyJSK2pmANCMZSZdc1mgsAaEtYlnnwridi2DBA4SYicI6wAU+sDlcVPIOPw6z+RmHagTf3n7Nz3OS6jd5dWN6TGNyscptr+d7zLpUooEXcOrg+e+NnoFPDXm7xwSEUTgv+gryw94sRhDYIDjNU4Z4RIGRyKeNBkGMYKM1J+zDOU42aQ59BVBzVKYAgRSPpEHZ7L96Cc4ZIJROzvyTkj6952+n6ikYNK3R+uDZo',s:[0xad1849a81e,0xe962056752],}})();</script></body>
+</html>
