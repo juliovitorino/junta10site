@@ -34,7 +34,7 @@
              	$.ajax({
 	                 type: "POST",
                      crossDomain: true,
-	                 url:'http://www.elitefinanceira.com/producao/cfdi/php/classes/gateway/appInserirContato.php',
+	                 url:'https://www.elitefinanceira.com/producao/cfdi/php/classes/gateway/appInserirContato.php',
 	                 data:{
                          'nome': name,
                          'email': email,
